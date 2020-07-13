@@ -1,5 +1,8 @@
 ### Hi, I am Purba 👋
 
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/sadiaafrinpurba)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sadia-afrin-purba/)
+
 <!--
 **SadiaAfrinPurba/SadiaAfrinPurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
