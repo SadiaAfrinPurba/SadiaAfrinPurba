@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/sadiaafrinpurba)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sadia-afrin-purba/)
 
-- 🔭 I’m a Software Engineer
+- 🔭 I’m a Machine Learning Engineer
 - 🌱 I’m currently working on a computer vision project in retail domain  
 - 👯 I’m looking to collaborate on any machine learning and computer vision related projects
 - 😄 Tech Stack: Python, OpenCV, PyTorch, Keras 
