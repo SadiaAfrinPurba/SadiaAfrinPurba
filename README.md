@@ -7,7 +7,8 @@
 - 🔭 I’m a Machine Learning Engineer
 - 🌱 I’m currently working on a computer vision project in retail domain  
 - 👯 I’m looking to collaborate on any machine learning and computer vision related projects
-- 😄 Tech Stack: Python, OpenCV, PyTorch, Keras 
+- :woman_technologist: Tech Stack: Python, OpenCV, PyTorch, Keras, Tensorflow
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Life is beautiful 
 
 <!--
@@ -24,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
+
+
