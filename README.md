@@ -11,6 +11,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Life is beautiful 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **SadiaAfrinPurba/SadiaAfrinPurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
