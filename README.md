@@ -11,6 +11,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Life is beautiful 
 
+-------
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 Week: 08 January, 2022 - 14 January, 2022
