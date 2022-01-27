@@ -17,9 +17,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2022 - 25 January, 2022
-
-Python   3 mins          ███████████████████████▓░   94.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
