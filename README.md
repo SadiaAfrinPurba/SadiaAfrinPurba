@@ -7,7 +7,7 @@
 - 🔭 I’m a Machine Learning Engineer
 - 🥅 2022 Goals: Build several awesome end to end side projects  
 - 👯 I’m looking to collaborate on any machine learning and computer vision related projects
-- :woman_technologist: Tech Stack: Python, OpenCV, PyTorch, Keras, Tensorflow, DynamoDB, PostgreSQL, Graph Database, AWS, Docker
+- :woman_technologist: Tech Stack: Python, OpenCV, PyTorch, Keras, Tensorflow, DynamoDB, Graph Database, AWS, Docker
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Life is beautiful 
 - 📖 Favorite quote: "The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own – Epictetus"
