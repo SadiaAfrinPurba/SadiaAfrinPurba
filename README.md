@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sadia-afrin-purba/)
 
 - 🔭 I’m a Machine Learning Engineer
-<!-- - 🥅 2023 Goals: Build several awesome end to end side projects   -->
 - 👯 I’m looking to collaborate on any machine learning and computer vision related projects
 - :woman_technologist: Tech Stack: Python, OpenCV, PyTorch, Keras, Tensorflow, DynamoDB, Graph Database, AWS, Docker
 - 😄 Pronouns: She/Her
