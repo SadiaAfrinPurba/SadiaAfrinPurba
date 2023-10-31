@@ -1,6 +1,6 @@
 # Hello, I'm Sadia Afrin Purba! 👋
 
-![Profile views](https://gpvc.arturio.dev/SadiaAfrinPurba)  <!-- This will show the number of profile views -->
+![](https://komarev.com/ghpvc/?username=SadiaAfrinPurba&color=green) <!-- This will show the number of profile views -->
 
 - 🌱 I'm currently working at **Infolytx, Dhaka** as a **Senior Software Engineer / AI & ML**.
 - 🤖 My recent project involved using AI to boost the accuracy of medical codes from doctor's notes.
@@ -21,7 +21,7 @@
 ## 📞 Let's Connect!
 
 - [Personal Site](https://sadiaafrinpurba.github.io/)
-- [GitHub](https://www.github.com/SadiaAfrinPurba)
+- [Twitter] (https://twitter.com/sadiaafrinpurba)
 - [LinkedIn](https://www.linkedin.com/in/sadia-afrin-purba/)
 - 📧 Email: purba0101@gmail.com
 
