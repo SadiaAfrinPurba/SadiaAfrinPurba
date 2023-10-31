@@ -1,37 +1,28 @@
-### Hi, I am Purba 👋
+# Hello, I'm Sadia Afrin Purba! 👋
 
+![Profile views](https://gpvc.arturio.dev/SadiaAfrinPurba)  <!-- This will show the number of profile views -->
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ScientificGhosh/)](https://twitter.com/sadiaafrinpurba)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/sadia-afrin-purba/)
-
-- 🔭 I’m a Machine Learning Engineer
-- 👯 I’m looking to collaborate on any machine learning and computer vision related projects
-- :woman_technologist: Tech Stack: Python, OpenCV, PyTorch, Keras, Tensorflow, DynamoDB, Graph Database, AWS, Docker
+- 🌱 I'm currently working at **Infolytx, Dhaka** as a **Senior Software Engineer / AI & ML**.
+- 🤖 My recent project involved using AI to boost the accuracy of medical codes from doctor's notes.
+- 📊 I've also built tools to check data quality and developed a recommendation system for restaurants.
+- 🛍️ In the retail domain, I've used AI to notify shops about out-of-stock products, helping them increase sales.
+- 💡 I'm always looking to learn more and tackle new challenges in the AI and software engineering world.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Life is beautiful 
 - 📖 Favorite quote: "The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own – Epictetus"
 
--------
+## 🛠️ Technologies & Tools
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+- **Programming Languages**: Python 3, Java
+- **Frameworks & Libraries**: PyTorch, FastAPI, LangChain, Scikit-Learn, TensorFlow, .Net Core
+- **Databases**: MySQL, Graph Database (NeptuneDB - SPARQL), DynamoDB
+- **Other**: Linux, Git, Docker, MLFlow, Kubeflow, NATS Messaging System, Ontology Architecture, Protege
 
-<!--
-**SadiaAfrinPurba/SadiaAfrinPurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📞 Let's Connect!
 
-Here are some ideas to get you started:
+- [Personal Site](https://sadiaafrinpurba.github.io/)
+- [GitHub](https://www.github.com/SadiaAfrinPurba)
+- [LinkedIn](https://www.linkedin.com/in/sadia-afrin-purba/)
+- 📧 Email: purba0101@gmail.com
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
 
