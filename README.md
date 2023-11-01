@@ -21,7 +21,7 @@
 ## 📞 Let's Connect!
 
 - [Personal Site](https://sadiaafrinpurba.github.io/)
-- [Twitter] (https://twitter.com/sadiaafrinpurba)
+- [Twitter](https://twitter.com/sadiaafrinpurba)
 - [LinkedIn](https://www.linkedin.com/in/sadia-afrin-purba/)
 - 📧 Email: purba0101@gmail.com
 
