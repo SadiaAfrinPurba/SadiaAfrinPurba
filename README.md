@@ -4,6 +4,8 @@
 
 🚀 I’m on a mission to bring the future closer by building a robot and AI agent inspired by "Rosie the Robot" from The Jetsons! 
 
+## About Me
+
 🎓 **Education**  
 - PhD Candidate in Electrical and Computer Engineering (ECE) at Temple University 
 
@@ -12,8 +14,6 @@
 
 🤔 **Research Interests**  
 - Understanding the question: *Why do AI algorithms work?*  
-
-# About Me
 
 ## Personal Values
 - ⚡ **Motto:** Life is beautiful! 
