@@ -10,7 +10,7 @@
 - PhD Candidate in Electrical and Computer Engineering (ECE) at Temple University 
 
 🔬 **Current Role**  
-- Graduate Research Assistant focused on exploring how quantum computing can optimize the machine learning field.  
+- Graduate Research Assistant focused on making quantum computing useful for machine learning.  
 
 🤔 **Research Interests**  
 - Understanding the question: *Why do AI algorithms work?*  
