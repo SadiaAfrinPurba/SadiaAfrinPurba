@@ -1,19 +1,29 @@
 # Hello, I'm Sadia Afrin Purba! 👋
 
-![](https://komarev.com/ghpvc/?username=SadiaAfrinPurba&color=green) <!-- This will show the number of profile views -->
+![](https://komarev.com/ghpvc/?username=SadiaAfrinPurba&color=green)
 
-🚀 I’m on a mission to bring the future closer by building a robot and AI agent inspired by "Rosie the Robot" from The Jetsons! 
+🚀 I’m on a mission to bring the future closer by building a robot and AI agent inspired by "Rosie the Robot" from The Jetsons!
 
-## About Me
+## 🧭 About
 
-🎓 **Education**  
-- PhD Candidate in Electrical and Computer Engineering (ECE) at Temple University 
+- 🎓 PhD Candidate in Electrical and Computer Engineering (ECE) at Temple University
+- 🔬 Graduate Research Assistant focused on making quantum computing useful for machine learning
+- 🤔 Researching a core question: *Why do AI algorithms work?*
 
-🔬 **Current Role**  
-- Graduate Research Assistant focused on making quantum computing useful for machine learning.  
+## 🔎 Research Focus
 
-🤔 **Research Interests**  
-- Understanding the question: *Why do AI algorithms work?*  
+- Quantum machine learning
+- Quantum computing for AI/ML
+- Artificial intelligence and machine learning
+- Biomedical AI
+
+## 🛠️ Technical Toolkit
+
+- **Languages**: Python, C++, Java
+- **AI/ML & Quantum**: PyTorch, TensorFlow, Scikit-Learn, Qiskit, PennyLane, LangChain
+- **APIs & Systems**: FastAPI, NATS Messaging System
+- **Data & Knowledge Graphs**: MySQL, Graph Database (NeptuneDB - SPARQL), DynamoDB, Ontology Architecture, Protege
+- **MLOps & Cloud**: AWS, Docker, MLFlow, Kubeflow
 
 ## Personal Values
 - ⚡ **Motto:** Life is beautiful! 
@@ -21,15 +31,7 @@
   *"The chief task in life is simply this: to identify and separate matters so that I can say clearly to myself which are externals not under my control, and which have to do with the choices I actually control. Where then do I look for good and evil? Not to uncontrollable externals, but within myself to the choices that are my own"*  
   — **Epictetus**
 
-
-## 🛠️ Technologies & Tools
-
-- **Programming Languages**: Python, C++, Java
-- **Frameworks & Libraries**: PyTorch, FastAPI, LangChain, Scikit-Learn, TensorFlow
-- **Databases**: MySQL, Graph Database (NeptuneDB - SPARQL), DynamoDB
-- **Other**: AWS, Docker, MLFlow, Kubeflow, NATS Messaging System, Ontology Architecture, Protege
-
-## 📞 Let's Connect!
+## 🤝 Connect
 
 - [Personal Site](https://sadiaafrinpurba.github.io/)
 - [Twitter](https://twitter.com/sadiaafrinpurba)
