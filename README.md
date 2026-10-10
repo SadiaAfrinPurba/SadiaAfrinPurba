@@ -76,21 +76,9 @@ Knowledge Graphs ━━━━━━━━━━━━━━━━━━━━━
       <p><b>Python · Quantum ML · Research tooling</b></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SadiaAfrinPurba/UWGAN_UIE-Reproduce">UWGAN UIE Reproduction</a></h3>
-      <p>Reproduction of UWGAN for real-world underwater color restoration and image dehazing.</p>
-      <p><b>Computer vision · Generative models · Reproducibility</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SadiaAfrinPurba/ieee_spmb_chatbot">IEEE SPMB Chatbot</a></h3>
-      <p>An applied conversational AI project focused on making information easier to discover.</p>
-      <p><b>Python · NLP · Conversational AI</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SadiaAfrinPurba/Awesome-Multimodal-Research">Awesome Multimodal Research</a></h3>
-      <p>A curated research collection for multimodal learning and related topics.</p>
-      <p><b>Research · Multimodal AI · Reading list</b></p>
+      <h3><a href="https://github.com/SadiaAfrinPurba/qubitviz">qubitviz</a></h3>
+      <p>An interactive web application for building, visualizing, and executing quantum circuits, with support for multiple quantum computing frameworks and IBM Quantum hardware integration.</p>
+      <p><b>JavaScript · Quantum Computing · Visualization</b></p>
     </td>
   </tr>
 </table>
